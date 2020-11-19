@@ -1,0 +1,10 @@
+{
+    "nama" : "Deni Rudini",
+    "umur" : 20,
+    "nrp" : "183040041",
+    "lulus" : true,
+    "hobby" : [
+        "coding",
+        "gaming"
+    ]
+}
